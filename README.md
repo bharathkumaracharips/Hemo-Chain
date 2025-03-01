@@ -34,7 +34,7 @@ The project interacts with two Ethereum smart contracts:
 ### Steps to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/blood-donation-system.git
+   git clone https://github.com/bharathkumaracharips/Hemo-Chain.git
    cd blood-donation-system
    ```
 2. Install dependencies:
